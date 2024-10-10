@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarig\\source\\repos\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5073C5-A4DE-4B92-930F-27F6E508A63F}|01_MainSubjects\\01_MainSubjects.csproj|c:\\users\\sarig\\source\\repos\\solution1\\01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5073C5-A4DE-4B92-930F-27F6E508A63F}|01_MainSubjects\\01_MainSubjects.csproj|solutionrelative:01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548EDC67-5D2D-45BF-A74A-E2A93D996BE9}|03_MakingDecision\\03_MakingDecision.csproj|c:\\users\\sarig\\source\\repos\\solution1\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548EDC67-5D2D-45BF-A74A-E2A93D996BE9}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarig\\source\\repos\\Solution1\\01_MainSubjects\\Program.cs",
+              "RelativeDocumentMoniker": "01_MainSubjects\\Program.cs",
+              "ToolTip": "C:\\Users\\sarig\\source\\repos\\Solution1\\01_MainSubjects\\Program.cs",
+              "RelativeToolTip": "01_MainSubjects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:09:11.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarig\\source\\repos\\Solution1\\03_MakingDecision\\Program.cs",
+              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
+              "ToolTip": "C:\\Users\\sarig\\source\\repos\\Solution1\\03_MakingDecision\\Program.cs",
+              "RelativeToolTip": "03_MakingDecision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:39:45.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
